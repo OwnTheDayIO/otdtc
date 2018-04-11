@@ -1,2 +1,2 @@
-# otdtc
-Own the Day - Token Contract
+# OTD-Token-Contract
+Ethereum Smart Contract for Own the Day - Crypto Collectibles
