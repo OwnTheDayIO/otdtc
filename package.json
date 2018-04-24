@@ -4,7 +4,7 @@
   "description": "Ethereum Smart Contract for OwnTheDay - Blockchain Collectibles",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xeroblood/OTD-Token-Contract.git"
+    "url": "git+https://github.com/OwnTheDayIO/otdtc.git"
   },
   "main": "truffle-config.js",
   "directories": {
@@ -17,9 +17,9 @@
   "author": "xeroblood <owntheday.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xeroblood/OTD-Token-Contract/issues"
+    "url": "https://github.com/OwnTheDayIO/otdtc/issues"
   },
-  "homepage": "https://github.com/xeroblood/OTD-Token-Contract#readme",
+  "homepage": "https://github.com/OwnTheDayIO/otdtc#readme",
   "devDependencies": {
     "zeppelin-solidity": "1.7.0"
   }
